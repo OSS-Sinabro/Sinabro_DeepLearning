@@ -20,7 +20,7 @@
 
 <br/>
 
-##  학습 결과
+## 💡 학습 결과
 | <div align="center">Loss Graph</div> | <div align="center">Precision / Recall / F1 score</div> |
 | :----------------------------------: |:---------------------------------:|
 | <img src="https://github.com/OSS-Sinabro/Sinabro_DeepLearning/assets/90829718/761c903e-c91f-4dd4-8539-09590c77f624" alt="손실그래프" width="400"/> | <img src="https://github.com/OSS-Sinabro/Sinabro_DeepLearning/assets/90829718/eb4c8877-edc1-45b2-9676-d4359a1cda8c" alt="정밀도, 재현율, F1 스코어" width="400"/> |
