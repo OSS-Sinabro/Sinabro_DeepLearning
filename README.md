@@ -11,7 +11,6 @@
         <td align="center"><a href="https://drive.google.com/file/d/1tS9qnNAwa5reUW6AdTwh51Xe_phw_6dZ/view?usp=sharing">dataset.zip</a></td>
     </tr>
 </table>
-</div>
 
 <br/>
 
