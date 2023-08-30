@@ -28,7 +28,7 @@
 <div align="center">
 
 Test-set 검증 : 
-<img src="https://github.com/OSS-Sinabro/Sinabro_DeepLearning/assets/90829718/7ca6e1b4-bd82-400e-9963-d60850cdc9bb" alt="test" width="250"/>
+<img src="https://github.com/OSS-Sinabro/Sinabro_DeepLearning/assets/90829718/7ca6e1b4-bd82-400e-9963-d60850cdc9bb" alt="test" width="500"/>
 
 </div>
 
