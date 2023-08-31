@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Sinabro DeepLearning</h1>
+<br/>
 
   <table>
       <tr>
@@ -22,13 +23,11 @@
 
 ## 💡 학습 결과
 
-| Loss Graph | Precision / Recall / F1 score |
+| **Loss Graph** | **Precision / Recall / F1 score** |
 | :--------: | :---------------------------: |
 | ![손실그래프 이미지](https://github.com/OSS-Sinabro/Sinabro_DeepLearning/assets/90829718/761c903e-c91f-4dd4-8539-09590c77f624) | ![정밀도, 재현율, F1 스코어 이미지](https://github.com/OSS-Sinabro/Sinabro_DeepLearning/assets/90829718/eb4c8877-edc1-45b2-9676-d4359a1cda8c) |
-
-| <div align="center" colspan="2">Test-set 검증</div> |
-| :--------: |
-| ![테스트 이미지](https://github.com/OSS-Sinabro/Sinabro_DeepLearning/assets/90829718/7ca6e1b4-bd82-400e-9963-d60850cdc9bb) |
+| **Test-set 검증** | **Test 추론 코드** |
+| ![테스트 이미지](https://github.com/OSS-Sinabro/Sinabro_DeepLearning/assets/90829718/7ca6e1b4-bd82-400e-9963-d60850cdc9bb) | [inference_test.py](https://github.com/OSS-Sinabro/Sinabro_DeepLearning/blob/main/inference_test.py)|
 
 <br/>
 
@@ -42,6 +41,4 @@
 | ![분할](https://github.com/OSS-Sinabro/Sinabro_DeepLearning/assets/90829718/93342ecb-c74a-4766-a977-0ffacffa5885) | ![csv (1)](https://github.com/OSS-Sinabro/Sinabro_DeepLearning/assets/90829718/a2a1874e-8efe-4018-b01a-014ed927f870) |
 | [divide_imgset.py](https://github.com/OSS-Sinabro/Sinabro_DeepLearning/blob/main/divide_imgset.py) | [make_csv.py](https://github.com/OSS-Sinabro/Sinabro_DeepLearning/blob/main/make_csv.py) |
 
-
-
-
+<br/>
