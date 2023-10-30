@@ -18,8 +18,8 @@
 
 >[SLACK discussion board](https://app.slack.com/client/T0638ATFKF0/C064449G5Q8?geocode=ko-kr)
 ><br/>
-> SLACk Discussion workspace를 통해서, 지속적인 모델성능 향상에 참여하실 수 있습니다. <br/>
-> You can contribute to continuous model performance improvement through the SLACk discussion workspace.
+> SLACK Discussion workspace를 통해서, 지속적인 모델성능 향상에 참여하실 수 있습니다. <br/>
+> You can contribute to continuous model performance improvement through the SLACK discussion workspace.
 ><br/><br/>
 ><img src="https://github.com/OSS-Sinabro/Sinabro_DeepLearning/assets/90829718/8150b398-47e1-4278-a937-db5d30049c1f" width="300">
 
